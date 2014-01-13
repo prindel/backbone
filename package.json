@@ -1,0 +1,15 @@
+{
+    "name": "prindel-backbone",
+    "version": "0.0.1",
+    "description": "Test Realation Queries using JSON",    
+    "private": true,    
+    "dependencies": {
+        "express": "*",
+        "mongodb": "1.1.8",
+        "socket.io": "0.9.10"
+    },
+    "engines": {
+        "node": "0.8.4",
+        "npm": "1.1.49"
+    }
+}
